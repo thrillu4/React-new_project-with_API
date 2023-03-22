@@ -11,7 +11,6 @@ const SingleComicLayout = lazy(() => import('../pages/singleComicLayout/SingleCo
 const SingleCharacterLayout = lazy(() => import('../pages/singleCharacterLayout/SingleCharacterLayout'));
 const SinglePage = lazy(() => import('../pages/SinglePage'));
 
-
 const App = () => {
     return (
         <Router>
