@@ -24,4 +24,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Clone or download this project
 2. npm i
-3. 🤗
+3. npm start 🤗
